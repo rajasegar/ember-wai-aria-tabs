@@ -1,7 +1,7 @@
 ember-wai-aria-tabs
 ==============================================================================
 
-[Short description of the addon.]
+Tabs component in Ember based on the WAI-ARIA authoring practices
 
 
 Compatibility

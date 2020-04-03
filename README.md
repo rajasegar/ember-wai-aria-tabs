@@ -1,4 +1,4 @@
-ember-wai-aria-tabs
+ember-wai-aria-tabs [WIP]
 ==============================================================================
 
 Tabs component in Ember based on the WAI-ARIA authoring practices

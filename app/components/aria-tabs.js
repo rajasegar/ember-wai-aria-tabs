@@ -1,0 +1,1 @@
+export { default } from 'ember-wai-aria-tabs/components/aria-tabs';
